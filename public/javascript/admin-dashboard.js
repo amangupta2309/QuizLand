@@ -1,5 +1,5 @@
 const loader = document.querySelector("#loaderEnabler");
-const quizStartLink = "http://localhost:3000/quiz/start?invite=";
+const quizStartLink = "https://quizland-uyy3.onrender.com/quiz/start?invite=";
 const quizLeaderboardLink = "http://localhost:3000/quiz/leaderboard/";
 
 // sidebar 
